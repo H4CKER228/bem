@@ -1,0 +1,8 @@
+.header__banner {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    border: 4px #000 solid;
+}

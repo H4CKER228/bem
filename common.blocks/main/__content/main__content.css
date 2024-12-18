@@ -1,0 +1,8 @@
+.main__content {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 4px #000 solid;
+    flex-grow: 3;
+}

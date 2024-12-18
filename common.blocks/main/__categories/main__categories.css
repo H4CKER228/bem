@@ -1,0 +1,7 @@
+.main__categories {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 4px #000 solid;
+}

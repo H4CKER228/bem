@@ -1,0 +1,12 @@
+.main {
+    padding: 20px 0;
+    display: flex;
+    gap: 20px;
+    height: 50vh;
+}
+
+@media (max-width: 800px) {
+    .main {
+        flex-direction: column;
+    }
+}
